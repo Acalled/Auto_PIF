@@ -7,3 +7,10 @@
 
 
 <img width="576" height="1280" alt="image" src="https://github.com/user-attachments/assets/cfd2a689-522d-485d-8895-38cad8fe2c2a" />
+
+## How to get Strong Integrity ?
+- Install module [Play Integrity Inject](https://github.com/KOWX712/PlayIntegrityFix/releases/latest) by your root manager (Magisk/Apatch/KernelSu/Fork of KernelSU)
+- Press the action button
+
+##Contributors 
+[Acalled](https://github.com/Acalled)
