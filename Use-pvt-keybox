@@ -1,0 +1,10 @@
+if u have a your own private keybox then you can use it 
+extract AFIX.zip file
+you will get a folder in which lot of files are present.
+copy your private keybox and paste it in AFIX extracted folder
+name your private keybox file (keybox.xml)
+also delete the previous keybox.xml file from the extracted folder 
+
+NOW all set 
+run action.sh with root
+check your integrity✅✅✅
