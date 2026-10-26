@@ -16,6 +16,10 @@
 - now all set✅✅✅
 - check your integrity in any app✅✅✅
 
+## How to get Strong Integrity ?
+- After doing action.sh from [APIF.zip](https://github.com/Acalled/Auto_PIF/releases)
+- Install module [Play Integrity Inject](https://github.com/KOWX712/PlayIntegrityFix/releases/latest) by your root manager (Magisk/Apatch/KernelSu/Fork of KernelSU)
+- Press the action button
 
 ## Edit target list
 - unzip [APIF.zip](https://github.com/Acalled/Auto_PIF/releases)
@@ -25,10 +29,6 @@
 - run action.sh with root permission 
 - NOW all set.
 
-## How to get Strong Integrity ?
-- After doing action.sh from [APIF.zip](https://github.com/Acalled/Auto_PIF/releases)
-- Install module [Play Integrity Inject](https://github.com/KOWX712/PlayIntegrityFix/releases/latest) by your root manager (Magisk/Apatch/KernelSu/Fork of KernelSU)
-- Press the action button
 
 ## Imp. NOTE
 - play integrity✅✅✅ depends on your keybox.
