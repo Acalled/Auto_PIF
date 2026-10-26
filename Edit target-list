@@ -1,0 +1,10 @@
+unzip APIF.zip 
+you will see a target.txt file 
+edit this file acc. to your needs
+add package name of your targeted app 
+then save this file 
+
+
+run action.sh with root
+
+NOW all set.
