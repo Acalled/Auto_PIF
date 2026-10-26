@@ -45,6 +45,3 @@
 - NOW all set 
 - run action.sh with root permissions 
 - check your integrity✅✅✅
-
-## Contributors 
-[![Acalled](https://img.shields.io/badge/Acalled%20-EB0029?logo=github&logoColor=white&style=flat-square)](https://github.com/Acalled)
